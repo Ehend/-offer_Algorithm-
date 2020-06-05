@@ -1,5 +1,4 @@
-# -offer_Algorithm-
-关于剑指offer的随笔
+# 关于剑指offer的随笔
 
 # 1、剪绳子
 
